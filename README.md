@@ -9,12 +9,13 @@
 ## 使用方法
 
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/tun-script/master/tun.sh && bash tun.sh
+# wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/tun-script/master/tun.sh && bash tun.sh
+wget -N --no-check-certificate https://raw.githubusercontents.com/tpe28/tun-script/master/tun.sh && bash tun.sh
 ```
 
-## 交流群
-
-[Telegram](https://t.me/misakanetcn)
+## ~~交流群~~ 墓碑
+~~[Telegram] (https://t.me/misakanetcn)~~  
+[Telegram Channel](https://t.me/misakano)
 
 ## 赞助我们
 
